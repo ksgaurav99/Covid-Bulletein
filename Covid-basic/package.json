@@ -1,0 +1,15 @@
+{
+  "name": "covid-bulletin",
+  "version": "1.0.0",
+  "description": "To find Covid related information of various countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RKS Mehul",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "country-emoji": "^1.5.6"
+  }
+}
